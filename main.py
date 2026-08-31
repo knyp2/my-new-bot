@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 
 # API Keys တွေကို Environment Variables ကနေ ယူပါမယ်
-TELEGRAM_BOT_TOKEN = os.getenv("8761715406:AAFCPRfe9l6ApP3oPE3xICBUYr8iS9TvDSo")
+TELEGRAM_BOT_TOKEN = os.getenv("8761715406:AAFjhuVtPXpo7A0sqs2gg1W5qHohoy3srlQ")
 GEMINI_API_KEY = os.getenv("AQ.Ab8RN6J8vNmn2EX2xfNUtIvhj0VSBBQHv2GfWHNkMygZoCt4Ng")
 
 
