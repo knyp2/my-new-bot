@@ -1,2 +1,2 @@
-ipython-telegram-bot
+python-telegram-bot
 google-generativeai
